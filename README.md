@@ -32,5 +32,5 @@ Your CSV should have these columns:
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/taran98/house-price-prediction.git
+   git clone https://github.com/98taran/house-price-prediction.git
    cd house-price-prediction
